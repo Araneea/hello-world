@@ -14,6 +14,7 @@ int tab[10];
 	for(int i=0;i<10;i++) cout<<tab[i]<<endl;
 	cout<<"max tab "<<max(tab,10);
 	cout<<"min tab "<<min(tab,10);
+	cout<<"zmiana";
 
 
 
